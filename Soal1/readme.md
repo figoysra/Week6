@@ -1,4 +1,4 @@
-**# Algoritma dan Flowchart Soal 1
+# Algoritma dan Flowchart Soal 1
 
 ```
 Deteksi Palindrom
