@@ -1,4 +1,4 @@
-**# Algoritma dan Flowchart Soal 1
+# Algoritma dan Flowchart Soal 1
 
 ```
 Deteksi Palindrom
@@ -26,4 +26,4 @@ Misalnya teks “Malam”, output = palindrom.
 12. Selesai
     
 ![](./algoritma%20soal%201.jpg)
-**
+
