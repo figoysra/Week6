@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Algoritma dan Flowchart Soal 2
+# Algoritma dan Soal Flowchart Soal 2
 
 ```
 Reverse Words
@@ -11,53 +10,21 @@ Misalnya kalimat “Saya belajar Javascript”, output “Javascript belajar Say
 
 **Flowchart**
 
-![](./soal%20kedua.jpg)
+![](./diagram-Page-2.jpg)
 
 **Algoritma**
 
 1. Mulai
-2. Inputkan Teks "Saya Belajar Javascript"
-3. Cek spasi dan pisah teks berdasarkan spasi didalam teks tsb
-4. Masukan hasilnya ke variable stringarray
-5. Cek urutan angka, jumlah keseluruhan nilai variable stringarray dan kurangi 1
-6. Masukan hasil ke variabel x
-7. Setelah itu cek apakah nilai variabel stringarray tsb lebih besar sama dengan 0
-8. Jika Iya, tampilkan urutan huruf berdasarkan nilai var x dan masukan dalam variabel penampung var reverse
-9. Setelah itu Kurangi 1 nilai var x
-10. Ulangi step nomor 5
-11. Jika Tidak, Tampilkan nilai var reverse
-12. Selesai 
-
-![](./algoritma%20soal%202%20(3).jpg)
-=======
-# Algoritma dan Flowchart Soal 2
-
-```
-Reverse Words
-
-Diberikan sebuah kalimat, ubah urutan kata-kata di dalam kalimat menjadi terbalik.
-Misalnya kalimat “Saya belajar Javascript”, output “Javascript belajar Saya”
-
-```
-
-**Flowchart**
-
-![](./soal%20kedua.jpg)
-
-**Algoritma**
-
-1. Mulai
-2. Inputkan Teks "Saya Belajar Javascript"
-3. Cek spasi dan pisah teks berdasarkan spasi didalam teks tsb
-4. Masukan hasilnya ke variable stringarray
-5. Cek urutan angka, jumlah keseluruhan nilai variable stringarray dan kurangi 1
-6. Masukan hasil ke variabel x
-7. Setelah itu cek apakah nilai variabel x tsb lebih besar sama dengan 0
-8. Jika Iya, tampilkan urutan huruf berdasarkan nilai var x dan masukan dalam variabel penampung var reverse
-9. Setelah itu Kurangi 1 nilai var x
-10. Ulangi step nomor 5
-11. Jika Tidak, Tampilkan nilai var reverse
-12. Selesai 
-
-![](./algoritma%20soal%202%20(3).jpg)
->>>>>>> fdcbe52b05f400f046789ac5288fdec0072aec59
+2. Inputkan kalimat "Saya Belajar Javascript"
+3. Masukan kalimat tsb ke variabel input, buat variable temp dan juga buat variable ouput
+4. Hitung banyaknya karakter di kalimat tsb dan masukan ke variable x
+5. cek nilai variable x apakah lebih besar dari 0
+6. Jika **True** (nilai variable x lebih besar dari 0), cek apakah karakter tersebut merupakan karakter spasi
+7. Jika Karakter tsb ***bukan (false)*** spasi Tampilkan karakter berdasarkan urutan nilai dari variable x dan masukan ke variable temp
+8. Setelah itu kurangi 1 nilai variable x dan ulangi step ke 5
+9. Jika Karakter tsb ***merupakan (true)*** spasi tampilkan nilai variable output, spasi, variable temp dan masukan ke variable output
+10. Reset (kosongkan) nilai variable temp
+11. Setelah itu kurangi 1 nilai variable x dan ulangi step ke 5
+12. Jika **False** (nilai variable x lebih kecil dari 0), Tampilkan variable output
+13. Selesai
+![](./)
