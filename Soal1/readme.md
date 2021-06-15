@@ -8,7 +8,7 @@ Misalnya teks “Malam”, output = palindrom.
 
 **Flowchart**
 
-![](./diagram.jpg)
+
 
 **Algoritma**
 
