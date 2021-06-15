@@ -20,7 +20,7 @@ Misalnya kalimat “Saya belajar Javascript”, output “Javascript belajar Say
 4. Masukan hasilnya ke variable stringarray
 5. Cek urutan angka, jumlah keseluruhan nilai variable stringarray dan kurangi 1
 6. Masukan hasil ke variabel x
-7. Setelah itu cek apakah nilai variabel stringarray tsb lebih besar sama dengan 0
+7. Setelah itu cek apakah nilai variabel x tsb lebih besar sama dengan 0
 8. Jika Iya, tampilkan urutan huruf berdasarkan nilai var x dan masukan dalam variabel penampung var reverse
 9. Setelah itu Kurangi 1 nilai var x
 10. Ulangi step nomor 5
