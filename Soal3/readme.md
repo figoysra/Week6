@@ -1,4 +1,4 @@
-# Algoritma dan Soal Flowchart Soal 1
+# Algoritma dan Soal Flowchart Soal 3
 
 ```
 Mengubah Kata

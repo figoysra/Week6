@@ -16,7 +16,7 @@ Misalnya kalimat “Saya belajar Javascript”, output “Javascript belajar Say
 
 1. Mulai
 2. Inputkan kalimat "Saya Belajar Javascript"
-3. Masukan kalimat tsb ke variabel input, buat variable temp dan juga buat variable ouput
+3. Masukan kalimat tsb ke variabel input, buat variable temp dan juga buat variable output
 4. Hitung banyaknya karakter di kalimat tsb dan masukan ke variable x
 5. cek nilai variable x apakah lebih besar dari 0
 6. Jika **True** (nilai variable x lebih besar dari 0), cek apakah karakter tersebut merupakan karakter spasi
