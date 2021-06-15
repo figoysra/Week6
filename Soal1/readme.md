@@ -18,8 +18,8 @@ Misalnya teks “Malam”, output = palindrom.
 4. Masukan hasil ke variabel x
 5. Cek apakah nilai variabel x tsb lebih besar sama dengan 0
 6. Jika iya tampilkan urutan huruf berdasarkan nilai var x dan masukan dalam variabel penampung var reverse
-7. Kurangi 1 nilai var x
-8. Setelah itu ulangi step nomor 5 
+7. Setelah itu kurangi 1 nilai var x
+8. Ulangi step nomor 5 
 9. Jika Tidak, Cek apakah variabel reverse sama dengan inputan teks
 10. Jika Iya, Tampilkan teks "Palindrom"
 11. Jika Tidak, Tampilkan teks "Bukan Palindrom"
